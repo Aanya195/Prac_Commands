@@ -1,6 +1,5 @@
 Hello!
 Neha
-This is the text file
+This is the img file
 Neha
-Made by Aaniya
-Neha
+Made by Neha
